@@ -1,4 +1,4 @@
 ## project-AIDevils
 
-This is a testing organization.
+Do not have any plans for now.
 
