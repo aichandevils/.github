@@ -1,3 +1,3 @@
-# Data Devils — Basito
+# This is us.
 
-Soon...
+For now, we are still on learning part of coding.
